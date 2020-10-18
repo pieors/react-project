@@ -1,4 +1,4 @@
-# [react-project](https://github.com/pieors/react-project) 
+# [react-template](https://github.com/pieors/react-template) 
 服务管理平台框架模板-React项目(Webpack + React hooks + Mobx + Antd)
 
 ## 说明
@@ -34,6 +34,7 @@
 │   ├── index.html          // 入口html页面
 │   └── main.js             // 项目入口文件
 ├── .babelrc                // babel配置
+├── .editorconfig           // 项目格式配置
 ├── .eslintrc.js            // ESLint配置
 ├── .gitignore              // git 忽略配置
 ├── .postcssrc.js           // postcss配置
@@ -46,7 +47,7 @@
 ### 克隆项目
 
 ```bash
-git clone git@github.com:pieors/react-project.git
+git clone git@github.com:pieors/react-template.git
 ```
 
 ### 初始化依赖配置
